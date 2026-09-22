@@ -3,10 +3,23 @@ College networking project focused on designing a coffee shop Wi-Fi infrastructu
 
 ## Skills Used
 - Network Administration
-- Network Topology Design
 - Threat Analysis
-- Encryption
-- Network Documentation
+- SSID Configuration
+- VLANs
 - Vulnerability Assessment
 - Performance Analysis
 - Requirements Analysis
+
+## Deliverables
+- Network Topology Design
+- Network Documentation
+- Security Recommendations
+
+## Key Takeaways
+- Implemented secure wireless access concepts
+- Applied network segmentation principles
+- Practiced real-world network planning
+- Designing small business networks
+- Planning IP addressing schemes
+- Applying wireless security best practices
+- Creating network documentation
