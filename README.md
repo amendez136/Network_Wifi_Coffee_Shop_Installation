@@ -8,7 +8,7 @@ Designed a secure and scalable Wi-Fi network for a coffee shop as part of a coll
 - Network Security
  
 ## Project Files
-- Wificoffeeshopinstallment.pptx (full presentation)
+- ./WifiCoffeeshopInstallment (full presentation)
  
 ## Screenshots
 
