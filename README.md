@@ -1,6 +1,7 @@
 ## Network+ WiFi Coffee Shop Installation Project
 
 ### Project Overview
+---
 Designed a secure and scalable Wi-Fi network infrastructure for a coffee shop environment as part of a networking course project. The network was designed to support employees and guests while maintaining performance, security, and network segmentation through industry-standard networking practices.
 
 ### Key Skills
