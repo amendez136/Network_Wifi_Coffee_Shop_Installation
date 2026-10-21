@@ -45,4 +45,4 @@ Designed a secure and scalable Wi-Fi network infrastructure for a coffee shop en
 🔒 Security & Access Control Recommendations
 
 ## Project Deliverables
-**[Presentation](https://studentmorainevalley-my.sharepoint.com/:p:/r/personal/mendeza48_student_morainevalley_edu/Documents/Wifi%20coffeeshop%20Installment.pptx?d=w694d5cc72d504168a2708b5d74c19328&csf=1&web=1&e=f5gdhu)**.
+📊 **[Presentation](https://studentmorainevalley-my.sharepoint.com/:p:/r/personal/mendeza48_student_morainevalley_edu/Documents/Wifi%20coffeeshop%20Installment.pptx?d=w694d5cc72d504168a2708b5d74c19328&csf=1&web=1&e=f5gdhu)**.
